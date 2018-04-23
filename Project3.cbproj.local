@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\Ramiras\Documents\kyrs\Project3.cbproj=C:\Users\Ramiras\Documents\kyrs\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\Ramiras\Documents\kyrs\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,C:\Users\Ramiras\Documents\kyrs\Project3.cbproj=C:\Users\Ramiras\Documents\kyrs\Project3.cbproj</Transaction>
+    <Transaction>2018.04.24 01:10:04.274,C:\Users\Ramiras\Documents\GitHub\shifrator-deshifrator\Project3.cbproj=C:\Users\Ramiras\Documents\kyrs\Project3.cbproj</Transaction>
+    <Transaction>2018.04.24 01:10:20.925,C:\Users\Ramiras\Documents\GitHub\shifrator-deshifrator\Unit4.cpp=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.cpp</Transaction>
+    <Transaction>2018.04.24 01:10:20.925,C:\Users\Ramiras\Documents\GitHub\shifrator-deshifrator\Unit4.dfm=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.dfm</Transaction>
+    <Transaction>2018.04.24 01:10:20.925,C:\Users\Ramiras\Documents\GitHub\shifrator-deshifrator\Unit4.h=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\p\Unit4.h</Transaction>
+    <Transaction>2018.04.24 01:10:41.848,C:\Users\Ramiras\Documents\GitHub\shifrator-deshifrator\Project3PCH1.h=C:\Users\Ramiras\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
